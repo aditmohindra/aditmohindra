@@ -42,7 +42,7 @@ QUICK EDITS:
         ·
         <a href="https://www.linkedin.com/in/adit-mohindra"><strong>LinkedIn</strong></a>
         ·
-        <a href="https://github.com/aditmohindra/portfolio-"><strong>Portfolio repository</strong></a>
+        <a href="https://aditmohindra.com/"><strong>Website</strong></a>
       </p>
     </td>
   </tr>
