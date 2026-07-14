@@ -119,7 +119,7 @@ QUICK EDITS:
   &nbsp;·&nbsp;
   <a href="https://github.com/aditmohindra"><strong>GITHUB</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/aditmohindra/portfolio-"><strong>PORTFOLIO REPO</strong></a>
+  <a href="https://aditmohindra.com/"><strong>WEBSITE</strong></a>
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt="Connect with Adit Mohindra">
