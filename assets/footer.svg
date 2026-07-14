@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="86" viewBox="0 0 1200 86" role="img">
+<title>Connect with Adit Mohindra</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="blueGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#8aa4ff"/>
+    <stop offset="100%" stop-color="#5470d8"/>
+  </linearGradient>
+  <linearGradient id="purpleGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#b5b9ff"/>
+    <stop offset="100%" stop-color="#7487e8"/>
+  </linearGradient>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="tinyGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#233044" stroke-width="1" opacity="0.38"/>
+  </pattern>
+</defs>
+<rect width="1200" height="86" rx="16" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="84" rx="15" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="30" y="34" fill="#8aa4ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1">CONNECT.EXE</text>
+<text x="30" y="61" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="400" text-anchor="start" letter-spacing="0">Build useful systems. Make complex things understandable.</text>
+<text x="1168" y="49" fill="#8aa4ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" text-anchor="end" letter-spacing="0">github.com/aditmohindra</text>
+</svg>

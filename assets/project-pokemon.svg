@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="300" viewBox="0 0 570 300" role="img">
+<title>Pokémon TCG Agentic AI</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="blueGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#8aa4ff"/>
+    <stop offset="100%" stop-color="#5470d8"/>
+  </linearGradient>
+  <linearGradient id="purpleGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#b5b9ff"/>
+    <stop offset="100%" stop-color="#7487e8"/>
+  </linearGradient>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="tinyGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#233044" stroke-width="1" opacity="0.38"/>
+  </pattern>
+</defs>
+<rect width="570" height="300" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="568" height="298" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
+<rect width="570" height="300" rx="18" fill="url(#grid)" opacity="0.22"/>
+<text x="26" y="31" fill="#f2cc60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1">PROJECT 03</text>
+<text x="544" y="31" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="end" letter-spacing="1">NEXT BUILD</text>
+<path d="M26 45 H544" stroke="#30363d"/>
+<rect x="316" y="66" width="228" height="138" rx="12" fill="#0a1020" stroke="#2d3c57" stroke-width="1" opacity="1"/>
+<rect x="345" y="100" width="58" height="83" rx="7" fill="#f7e9c4" stroke="#f2cc60" transform="rotate(-8 374 141)"/>
+<rect x="409" y="91" width="58" height="83" rx="7" fill="#f7e9c4" stroke="#f2cc60"/>
+<rect x="472" y="100" width="58" height="83" rx="7" fill="#f7e9c4" stroke="#f2cc60" transform="rotate(8 501 141)"/>
+<circle cx="374" cy="137" r="13" fill="none" stroke="#e76f51" stroke-width="3"/>
+<circle cx="438" cy="129" r="13" fill="none" stroke="#5fa8d3" stroke-width="3"/>
+<circle cx="501" cy="137" r="13" fill="none" stroke="#6abf69" stroke-width="3"/>
+<circle cx="438" cy="75" r="12" fill="#8aa4ff"/>
+<path d="M438 87 V94 M427 82 L393 103 M449 82 L485 103" stroke="#8aa4ff" stroke-width="2"/>
+<text x="26" y="83" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="700" text-anchor="start" letter-spacing="0">Pokémon TCG Agentic AI</text>
+<text x="26" y="116" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start" letter-spacing="0">Agentic strategy system for</text>
+<text x="26" y="138" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start" letter-spacing="0">deck analysis and battle policy.</text>
+<rect x="26" y="245" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="39" y="265" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Python</text>
+<rect x="106" y="245" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="119" y="265" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Agents</text>
+<rect x="186" y="245" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="199" y="265" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">RL</text>
+<text x="544" y="281" fill="#f2cc60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="end" letter-spacing="1">OPEN PROJECT →</text>
+</svg>

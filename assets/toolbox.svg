@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img">
+<title>Technology toolbox</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="blueGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#8aa4ff"/>
+    <stop offset="100%" stop-color="#5470d8"/>
+  </linearGradient>
+  <linearGradient id="purpleGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#b5b9ff"/>
+    <stop offset="100%" stop-color="#7487e8"/>
+  </linearGradient>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="tinyGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#233044" stroke-width="1" opacity="0.38"/>
+  </pattern>
+</defs>
+<rect width="1200" height="250" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="248" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
+<rect width="1200" height="250" rx="18" fill="url(#grid)" opacity=".2"/>
+<text x="28" y="36" fill="#8aa4ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" text-anchor="start" letter-spacing="1.1">⌁ TECH STACK / TOOLBOX</text>
+<path d="M28 52 H1172" stroke="#30363d"/>
+<text x="28" y="102" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="start" letter-spacing="1">LANGUAGES</text>
+<rect x="165" y="83" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="178" y="103" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Python</text>
+<rect x="245" y="83" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="258" y="103" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">SQL</text>
+<rect x="325" y="83" width="90.0" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="338" y="103" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">TypeScript</text>
+<rect x="423.0" y="83" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="436.0" y="103" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">R</text>
+<rect x="503.0" y="83" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="516.0" y="103" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">C++</text>
+<text x="28" y="143" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="start" letter-spacing="1">ML / AI</text>
+<rect x="165" y="124" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="178" y="144" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">XGBoost</text>
+<rect x="245" y="124" width="104.4" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="258" y="144" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Scikit-learn</text>
+<rect x="357.4" y="124" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="370.4" y="144" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">HDBSCAN</text>
+<rect x="437.4" y="124" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="450.4" y="144" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">UMAP</text>
+<rect x="517.4" y="124" width="90.0" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="530.4" y="144" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Embeddings</text>
+<rect x="615.4" y="124" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="628.4" y="144" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">SHAP</text>
+<text x="28" y="184" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="start" letter-spacing="1">DATA / SYSTEMS</text>
+<rect x="165" y="165" width="90.0" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="178" y="185" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">PostgreSQL</text>
+<rect x="263.0" y="165" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="276.0" y="185" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Qdrant</text>
+<rect x="343.0" y="165" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="356.0" y="185" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">FastAPI</text>
+<rect x="423.0" y="165" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="436.0" y="185" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Pandas</text>
+<rect x="503.0" y="165" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="516.0" y="185" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Airflow</text>
+<rect x="583.0" y="165" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="596.0" y="185" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Docker</text>
+<text x="28" y="225" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="start" letter-spacing="1">PRODUCT / UI</text>
+<rect x="165" y="206" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="178" y="226" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">React</text>
+<rect x="245" y="206" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="258" y="226" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Next.js</text>
+<rect x="325" y="206" width="104.4" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="338" y="226" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Tailwind CSS</text>
+<rect x="437.4" y="206" width="82.8" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="450.4" y="226" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Streamlit</text>
+<rect x="528.1999999999999" y="206" width="72" height="30" rx="8" fill="#161b22" stroke="#3b4658" stroke-width="1" opacity="1"/>
+<text x="541.1999999999999" y="226" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Git</text>
+</svg>

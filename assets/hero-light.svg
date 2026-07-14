@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img">
+<title>Adit Mohindra — Data Scientist and ML Engineer</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f7faff"/>
+    <stop offset="100%" stop-color="#edf3ff"/>
+  </linearGradient>
+  <linearGradient id="blueGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#8aa4ff"/>
+    <stop offset="100%" stop-color="#5470d8"/>
+  </linearGradient>
+  <linearGradient id="purpleGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#b5b9ff"/>
+    <stop offset="100%" stop-color="#7487e8"/>
+  </linearGradient>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="tinyGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#d6e0f0" stroke-width="1" opacity="0.38"/>
+  </pattern>
+</defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="418" rx="21" fill="none" stroke="#c4d0e5" stroke-width="2"/>
+<rect width="1200" height="420" rx="22" fill="url(#grid)" opacity="0.45"/>
+<rect x="0" y="0" width="1200" height="42" rx="22" fill="#f3f7ff"/>
+<path d="M0 42 H1200" stroke="#c4d0e5"/>
+<circle cx="24" cy="21" r="5" fill="#ff6b6b" opacity="0.9"/>
+<circle cx="42" cy="21" r="5" fill="#f2cc60" opacity="0.9"/>
+<circle cx="60" cy="21" r="5" fill="#3fb950" opacity="0.9"/>
+<text x="92" y="27" fill="#8aa4ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" text-anchor="start" letter-spacing="1.2">ADIT.EXE / PROFILE_README</text>
+<text x="1168" y="27" fill="#768399" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" text-anchor="end" letter-spacing="1">SYS.RECORD 01</text>
+<text x="54" y="105" fill="#172033" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="40" font-weight="700" text-anchor="start" letter-spacing="1.2">ADIT MOHINDRA</text>
+<text x="55" y="139" fill="#8aa4ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" text-anchor="start" letter-spacing="1.2">DATA SCIENTIST / ML ENGINEER</text>
+<text x="55" y="188" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="400" text-anchor="start" letter-spacing="0">I build applied ML systems, data products,</text>
+<text x="55" y="216" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="400" text-anchor="start" letter-spacing="0">and interactive tools that make complex</text>
+<text x="55" y="244" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="400" text-anchor="start" letter-spacing="0">information feel intuitive.</text>
+<text x="55" y="282" fill="#66738a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="400" text-anchor="start" letter-spacing="0">Currently turning Spotify history into a map</text>
+<text x="55" y="305" fill="#66738a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="400" text-anchor="start" letter-spacing="0">of listening identity, culture, and emotion.</text>
+<rect x="55" y="340" width="145" height="30" rx="8" fill="#ffffff" stroke="#c6d2e7" stroke-width="1" opacity="1"/>
+<circle cx="69" cy="355" r="4" fill="#8aa4ff"/>
+<text x="80" y="360" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Bay Area, CA</text>
+<rect x="214" y="340" width="210" height="30" rx="8" fill="#ffffff" stroke="#c6d2e7" stroke-width="1" opacity="1"/>
+<circle cx="228" cy="355" r="4" fill="#3fb950"/>
+<text x="239" y="360" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0">Building Spotify Atlas</text>
+<ellipse cx="790" cy="195" rx="210" ry="96" fill="none" stroke="#5672dd" stroke-width="1.5" opacity="0.6" transform="rotate(-10 790 195)"/>
+<ellipse cx="790" cy="195" rx="168" ry="70" fill="none" stroke="#8aa4ff" stroke-width="1" opacity="0.45" transform="rotate(18 790 195)"/>
+<ellipse cx="790" cy="195" rx="110" ry="46" fill="none" stroke="#b5b9ff" stroke-width="1" opacity="0.35" transform="rotate(-28 790 195)"/>
+<circle cx="620" cy="170" r="5" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="674" cy="104" r="4" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="742" cy="126" r="7" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="826" cy="86" r="4" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="926" cy="139" r="6" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="957" cy="212" r="4" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="874" cy="266" r="5" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="738" cy="284" r="4" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<circle cx="664" cy="235" r="6" fill="#8aa4ff" filter="url(#tinyGlow)"/>
+<polygon points="710,285 858,235 980,300 830,354" fill="#dce6ff" stroke="#5068c7" stroke-width="2"/>
+<polygon points="710,285 830,354 830,365 710,297" fill="#ffffff" stroke="#34466f"/>
+<polygon points="830,354 980,300 980,312 830,365" fill="#e9efff" stroke="#34466f"/>
+<rect x="754" y="241" width="34" height="80" fill="#d3dfff" stroke="#8aa4ff" stroke-width="1.5"/>
+<rect x="781" y="249" width="3" height="62" fill="#8aa4ff" opacity="0.8"/>
+<path d="M761 253 H776" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M761 267 H776" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M761 281 H776" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M761 295 H776" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M761 309 H776" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<rect x="802" y="213" width="40" height="108" fill="#d3dfff" stroke="#8aa4ff" stroke-width="1.5"/>
+<rect x="835" y="221" width="3" height="90" fill="#8aa4ff" opacity="0.8"/>
+<path d="M809 225 H830" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M809 239 H830" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M809 253 H830" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M809 267 H830" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M809 281 H830" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M809 295 H830" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M809 309 H830" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<rect x="857" y="232" width="32" height="78" fill="#d3dfff" stroke="#8aa4ff" stroke-width="1.5"/>
+<rect x="882" y="240" width="3" height="60" fill="#8aa4ff" opacity="0.8"/>
+<path d="M864 244 H877" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M864 258 H877" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M864 272 H877" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M864 286 H877" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M864 300 H877" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<rect x="900" y="250" width="27" height="57" fill="#d3dfff" stroke="#8aa4ff" stroke-width="1.5"/>
+<rect x="920" y="258" width="3" height="39" fill="#8aa4ff" opacity="0.8"/>
+<path d="M907 262 H915" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M907 276 H915" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M907 290 H915" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<rect x="725" y="260" width="26" height="46" fill="#d3dfff" stroke="#8aa4ff" stroke-width="1.5"/>
+<rect x="744" y="268" width="3" height="28" fill="#8aa4ff" opacity="0.8"/>
+<path d="M732 272 H739" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M732 286 H739" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<rect x="834" y="263" width="25" height="45" fill="#d3dfff" stroke="#8aa4ff" stroke-width="1.5"/>
+<rect x="852" y="271" width="3" height="27" fill="#8aa4ff" opacity="0.8"/>
+<path d="M841 275 H847" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M841 289 H847" stroke="#6f82d8" stroke-width="1" opacity="0.6"/>
+<path d="M822 213 L822 164" stroke="#b5b9ff" stroke-width="2"/>
+<circle cx="822" cy="158" r="5" fill="#b5b9ff" filter="url(#tinyGlow)"/>
+<rect x="953" y="72" width="205" height="132" rx="10" fill="#ffffff" stroke="#52658f" stroke-width="1.2" opacity="0.98"/>
+<text x="972" y="96" fill="#172033" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" text-anchor="start" letter-spacing="1.1">SYSTEM INFO</text>
+<path d="M966 106 H1145" stroke="#d8e0ee"/>
+<text x="970" y="126" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" text-anchor="start" letter-spacing="0">FOCUS</text>
+<text x="1145" y="126" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="end" letter-spacing="0">ML SYSTEMS</text>
+<text x="970" y="144" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" text-anchor="start" letter-spacing="0">DATA</text>
+<text x="1145" y="144" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="end" letter-spacing="0">EMBEDDINGS</text>
+<text x="970" y="162" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" text-anchor="start" letter-spacing="0">MODELS</text>
+<text x="1145" y="162" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="end" letter-spacing="0">CLUSTERING</text>
+<text x="970" y="180" fill="#7d8aaa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" text-anchor="start" letter-spacing="0">IMPACT</text>
+<text x="1145" y="180" fill="#3c475d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" text-anchor="end" letter-spacing="0">REAL WORLD</text>
+<rect x="970" y="184" width="12" height="5" rx="1" fill="#8aa4ff"/>
+<rect x="987" y="184" width="12" height="5" rx="1" fill="#8aa4ff"/>
+<rect x="1004" y="184" width="12" height="5" rx="1" fill="#8aa4ff"/>
+<rect x="1021" y="184" width="12" height="5" rx="1" fill="#8aa4ff"/>
+<rect x="1038" y="184" width="12" height="5" rx="1" fill="#8aa4ff"/>
+<rect x="1055" y="184" width="12" height="5" rx="1" fill="#8aa4ff"/>
+<rect x="1072" y="184" width="12" height="5" rx="1" fill="#8aa4ff"/>
+<rect x="1089" y="184" width="12" height="5" rx="1" fill="#d5deed"/>
+<rect x="1106" y="184" width="12" height="5" rx="1" fill="#d5deed"/>
+</svg>
