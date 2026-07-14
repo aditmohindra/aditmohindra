@@ -15,14 +15,14 @@ QUICK EDITS:
   </picture>
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="49%" valign="top">
+    <td width="50%" valign="middle">
       <a href="https://spotify-atlas.vercel.app/map">
         <img src="./assets/currently-building.svg" width="100%" alt="Currently building Spotify Atlas">
       </a>
     </td>
-    <td width="51%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 20px;">
       <h3><code>ABOUT.EXE</code></h3>
       <p>
         I am a Data Scientist and ML engineer focused on turning ambiguous real-world problems
@@ -52,7 +52,7 @@ QUICK EDITS:
 
 ### `FEATURED_PROJECTS`
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <a href="https://github.com/aditmohindra/spotify-atlas">
@@ -89,7 +89,7 @@ QUICK EDITS:
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><code>HOW_I_BUILD</code></h3>
@@ -100,7 +100,7 @@ QUICK EDITS:
         <li>Ship the result as a system—not just a notebook.</li>
       </ol>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 20px;">
       <h3><code>CURRENT_SIGNAL</code></h3>
       <ul>
         <li>Applied ML systems with measurable product value</li>
