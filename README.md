@@ -25,7 +25,7 @@ QUICK EDITS:
     <td width="51%" valign="top">
       <h3><code>ABOUT.EXE</code></h3>
       <p>
-        I am a data scientist and ML engineer focused on turning ambiguous real-world problems
+        I am a Data Scientist and ML engineer focused on turning ambiguous real-world problems
         into reliable systems and intuitive products.
       </p>
       <p>
@@ -34,13 +34,13 @@ QUICK EDITS:
       </p>
       <ul>
         <li><strong>Current:</strong> building Spotify Atlas</li>
-        <li><strong>Interested in:</strong> applied ML, AI products, music intelligence, and agentic systems</li>
+        <li><strong>Interested in:</strong> applied ML, AI products, music intelligence, and cool agentic systems</li>
         <li><strong>Based in:</strong> Bay Area, California</li>
       </ul>
       <p>
         <a href="mailto:aditmohindra@gmail.com"><strong>Email</strong></a>
         ·
-        <a href="https://www.linkedin.com/in/aditmohindra"><strong>LinkedIn</strong></a>
+        <a href="https://www.linkedin.com/in/adit-mohindra"><strong>LinkedIn</strong></a>
         ·
         <a href="https://github.com/aditmohindra/portfolio-"><strong>Portfolio repository</strong></a>
       </p>
@@ -115,7 +115,7 @@ QUICK EDITS:
 <p align="center">
   <a href="mailto:aditmohindra@gmail.com"><strong>EMAIL</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/aditmohindra"><strong>LINKEDIN</strong></a>
+  <a href="https://www.linkedin.com/in/adit-mohindra"><strong>LINKEDIN</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/aditmohindra"><strong>GITHUB</strong></a>
   &nbsp;·&nbsp;
