@@ -18,7 +18,7 @@ QUICK EDITS:
 <table>
   <tr>
     <td width="49%" valign="top">
-      <a href="https://github.com/aditmohindra/spotify-atlas">
+      <a href="https://spotify-atlas.vercel.app/map">
         <img src="./assets/currently-building.svg" width="100%" alt="Currently building Spotify Atlas">
       </a>
     </td>
