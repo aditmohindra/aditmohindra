@@ -33,7 +33,7 @@ QUICK EDITS:
         backend systems, and interactive visualization.
       </p>
       <ul>
-        <li><strong>Current:</strong> building Spotify Atlas</li>
+        <li><strong>Current:</strong> ML systems at Cotality, building Spotify Atlas</li>
         <li><strong>Interested in:</strong> applied ML, AI products, music intelligence, and cool agentic systems</li>
         <li><strong>Based in:</strong> Bay Area, California</li>
       </ul>
